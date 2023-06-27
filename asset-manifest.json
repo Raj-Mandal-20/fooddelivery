@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Raj-Mandal-20/fooddelivery.git/static/css/main.4d37ffdd.css",
-    "main.js": "/Raj-Mandal-20/fooddelivery.git/static/js/main.311c519a.js",
-    "static/js/787.ae0cd389.chunk.js": "/Raj-Mandal-20/fooddelivery.git/static/js/787.ae0cd389.chunk.js",
-    "static/media/meals.jpg": "/Raj-Mandal-20/fooddelivery.git/static/media/meals.2971f633fc1382581cbf.jpg",
-    "static/media/add to card.png": "/Raj-Mandal-20/fooddelivery.git/static/media/add to card.080bddb80383213fa448.png",
-    "index.html": "/Raj-Mandal-20/fooddelivery.git/index.html",
-    "main.4d37ffdd.css.map": "/Raj-Mandal-20/fooddelivery.git/static/css/main.4d37ffdd.css.map",
-    "main.311c519a.js.map": "/Raj-Mandal-20/fooddelivery.git/static/js/main.311c519a.js.map",
-    "787.ae0cd389.chunk.js.map": "/Raj-Mandal-20/fooddelivery.git/static/js/787.ae0cd389.chunk.js.map"
+    "main.css": "/Raj-Mandal-20/fooddelivery/static/css/main.4d37ffdd.css",
+    "main.js": "/Raj-Mandal-20/fooddelivery/static/js/main.54b42b7c.js",
+    "static/js/787.ae0cd389.chunk.js": "/Raj-Mandal-20/fooddelivery/static/js/787.ae0cd389.chunk.js",
+    "static/media/meals.jpg": "/Raj-Mandal-20/fooddelivery/static/media/meals.2971f633fc1382581cbf.jpg",
+    "static/media/add to card.png": "/Raj-Mandal-20/fooddelivery/static/media/add to card.080bddb80383213fa448.png",
+    "index.html": "/Raj-Mandal-20/fooddelivery/index.html",
+    "main.4d37ffdd.css.map": "/Raj-Mandal-20/fooddelivery/static/css/main.4d37ffdd.css.map",
+    "main.54b42b7c.js.map": "/Raj-Mandal-20/fooddelivery/static/js/main.54b42b7c.js.map",
+    "787.ae0cd389.chunk.js.map": "/Raj-Mandal-20/fooddelivery/static/js/787.ae0cd389.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d37ffdd.css",
-    "static/js/main.311c519a.js"
+    "static/js/main.54b42b7c.js"
   ]
 }

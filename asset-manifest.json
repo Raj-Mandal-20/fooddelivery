@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Raj-Mandal-20/food.git/static/css/main.4d37ffdd.css",
+    "main.js": "/Raj-Mandal-20/food.git/static/js/main.8292a703.js",
+    "static/js/787.ae0cd389.chunk.js": "/Raj-Mandal-20/food.git/static/js/787.ae0cd389.chunk.js",
+    "static/media/meals.jpg": "/Raj-Mandal-20/food.git/static/media/meals.2971f633fc1382581cbf.jpg",
+    "static/media/add to card.png": "/Raj-Mandal-20/food.git/static/media/add to card.080bddb80383213fa448.png",
+    "index.html": "/Raj-Mandal-20/food.git/index.html",
+    "main.4d37ffdd.css.map": "/Raj-Mandal-20/food.git/static/css/main.4d37ffdd.css.map",
+    "main.8292a703.js.map": "/Raj-Mandal-20/food.git/static/js/main.8292a703.js.map",
+    "787.ae0cd389.chunk.js.map": "/Raj-Mandal-20/food.git/static/js/787.ae0cd389.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d37ffdd.css",
+    "static/js/main.8292a703.js"
+  ]
+}
